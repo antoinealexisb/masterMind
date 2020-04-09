@@ -1,3 +1,13 @@
+###########################################
+#
+# Code MasterMind
+#
+# Author : Antoine-Alexis Bourdon
+# Link : https://github.com/antoinealexisb/masterMind
+# Version : 0.1.0
+# Dependency : random
+#
+###########################################
 from random import randint
 
 class Proposition:
